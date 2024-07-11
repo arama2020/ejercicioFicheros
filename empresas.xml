@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresas>
+    <empresa>
+        <codempre>1</codempre>
+		<direccion>Avda Danzantes 3. Huesca</direccion>
+		<nuevodirector>
+		  <nombre>Pedro Pérez</nombre>
+          <salario>2200.9</salario>
+		  <puesto>Director</puesto>	
+		</nuevodirector>
+        <nuevosemples>
+            <emple>
+                <nombre>Alicia García</nombre>
+                <salario>1200.5</salario>
+                <puesto>Auxiliar</puesto>				
+            </emple>
+			 <emple>
+                <nombre>Juan Ramos</nombre>
+                <salario>1250</salario>
+                <puesto>Auxiliar</puesto>	
+            </emple>
+			 <emple>
+                <nombre>Pedro Alameda</nombre>
+                <salario>1650.8</salario>
+                <puesto>Programador</puesto>	
+            </emple>
+        </nuevosemples>
+    </empresa>
+    <empresa>
+        <codempre>8</codempre>
+		<direccion>Avda Madrid 3. Talavera</direccion>
+		<nuevodirector>
+		  <nombre>Juan Ramirez</nombre>
+          <salario>2500</salario>
+		  <puesto>Director</puesto>	
+		</nuevodirector>
+        <nuevosemples>
+            <emple>
+                <nombre>Pedro Gil</nombre>
+                <salario>1550</salario>
+                <puesto>Programador</puesto>				
+            </emple>
+			 <emple>
+                <nombre>Alicia Vallejo</nombre>
+                <salario>1550</salario>
+                <puesto>Programadora</puesto>	
+            </emple>
+        </nuevosemples>
+    </empresa> 
+	  <empresa>
+        <codempre>12</codempre>
+		<direccion>Avda Toledo 54. Talavera</direccion>
+		<nuevodirector>
+		  <nombre>Antonia Carrasco</nombre>
+          <salario>2900</salario>
+		  <puesto>Directora</puesto>	
+		</nuevodirector>
+        <nuevosemples>
+            <emple>
+                <nombre>Alberto Gil</nombre>
+                <salario>1600</salario>
+                <puesto>Mantenimiento</puesto>				
+            </emple>
+			 <emple>
+                <nombre>María Estévez</nombre>
+                <salario>1500</salario>
+                <puesto>Limpiadora</puesto>	
+            </emple>
+        </nuevosemples>
+    </empresa> 
+	<empresa>
+        <codempre>20</codempre>
+		<direccion>Avda América 1. Talavera</direccion>
+		<nuevodirector>
+		  <nombre>Juan Pedro Talavera</nombre>
+          <salario>2500</salario>
+		  <puesto>Director</puesto>	
+		</nuevodirector>
+        <nuevosemples>
+            <emple>
+                <nombre>Antonia Romo</nombre>
+                <salario>2600</salario>
+                <puesto>Ingeniera Administrativa</puesto>				
+            </emple>
+			 <emple>
+                <nombre>Mario Dragui</nombre>
+                <salario>1500</salario>
+                <puesto>Administrativo</puesto>	
+            </emple>
+        </nuevosemples>
+    </empresa> 
+</empresas>
